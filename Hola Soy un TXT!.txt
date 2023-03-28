@@ -1,2 +1,6 @@
 editar desde la interfaz de github!
+<<<<<<< Updated upstream
 2da edicion pero con commit local
+=======
+edicion localemente
+>>>>>>> Stashed changes
